@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-26T22:40:42 IST" name="Surefire suite" finished-at="2022-06-26T22:41:31 IST" duration-ms="49043">
+    <groups>
+    </groups>
+    <test started-at="2022-06-26T22:40:42 IST" name="Surefire test" finished-at="2022-06-26T22:41:31 IST" duration-ms="49043">
+      <class name="com.maven.test.TestSeries">
+        <test-method is-config="true" signature="prep()[pri:0, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:40:42 IST" name="prep" finished-at="2022-06-26T22:40:55 IST" duration-ms="12571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prep -->
+        <test-method signature="AutoOne()[pri:1, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:40:55 IST" name="AutoOne" finished-at="2022-06-26T22:40:58 IST" duration-ms="3242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoOne -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:40:58 IST" name="shutdown" finished-at="2022-06-26T22:40:59 IST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+        <test-method is-config="true" signature="prep()[pri:0, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:40:59 IST" name="prep" finished-at="2022-06-26T22:41:07 IST" duration-ms="7880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prep -->
+        <test-method signature="AutoTwo()[pri:2, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:41:07 IST" name="AutoTwo" finished-at="2022-06-26T22:41:11 IST" duration-ms="3735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoTwo -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:41:11 IST" name="shutdown" finished-at="2022-06-26T22:41:11 IST" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+        <test-method is-config="true" signature="prep()[pri:0, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:41:11 IST" name="prep" finished-at="2022-06-26T22:41:19 IST" duration-ms="7438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prep -->
+        <test-method signature="AutoThree()[pri:3, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:41:19 IST" name="AutoThree" finished-at="2022-06-26T22:41:22 IST" duration-ms="3273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoThree -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:41:22 IST" name="shutdown" finished-at="2022-06-26T22:41:22 IST" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+        <test-method is-config="true" signature="prep()[pri:0, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:41:22 IST" name="prep" finished-at="2022-06-26T22:41:27 IST" duration-ms="4699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prep -->
+        <test-method signature="AutoFour()[pri:4, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:41:27 IST" name="AutoFour" finished-at="2022-06-26T22:41:31 IST" duration-ms="3702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoFour -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.maven.test.TestSeries@4278a03f]" started-at="2022-06-26T22:41:31 IST" name="shutdown" finished-at="2022-06-26T22:41:31 IST" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- com.maven.test.TestSeries -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
